@@ -1,0 +1,9 @@
+dataset/
+NORMAL/
+PNEUMONIA/
+.gradio/
+__pycache__/
+model.h5
+model.keras
+*.h5
+*.keras
